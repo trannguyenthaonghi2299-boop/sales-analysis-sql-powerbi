@@ -1,1 +1,1 @@
-# sales-analysis-sql-powerbi
+# ecommerce-sales-analysis-sql-powerbi
