@@ -1,7 +1,7 @@
 # Ecommerce-sales-analysis-sql-powerbi
-## Sales Trend Over Time
+## Sales Revenue Analysis (2022-2025)
 ![Chart](images/sales_trend.png)
-
+Sales Revenue
 ## 📊 Key Analysis
 
 ### 1. Sales Performance
