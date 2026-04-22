@@ -2,6 +2,7 @@
 ## Sales Revenue Analysis (2022-2025)
 ![Chart](images/sales_trend.png)
 Chart 1: Sales Revenue (2022-2025)
+
 **1. Overall Trend: Strong Upward Growth**
 
 Revenue shows a clear YoY acceleration
