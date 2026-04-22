@@ -10,7 +10,7 @@ Revenue shows a clear YoY acceleration
    - 2025: Breakout year, reaching ~527M in December
 The growth is exponential, especially from mid-2024 onwards.
 
-**2. Breakout year - 2025 **
+**2. Breakout year - 2025**
    - Monthly revenue in 2025 often exceeds peak months of prior years
    - Q4 2025 alone contributes a massive share of total revenue
    - The December spike (~527M) is ~3x higher than Dec 2024
