@@ -11,9 +11,9 @@ Revenue shows a clear YoY acceleration
 The growth is exponential, especially from mid-2024 onwards.
 
 **2. Breakout year - 2025**
-   - Monthly revenue in 2025 often exceeds peak months of prior years
-   - Q4 2025 alone contributes a massive share of total revenue
-   - The December spike (~527M) is ~3x higher than Dec 2024
+- Monthly revenue in 2025 often exceeds peak months of prior years
+- Q4 2025 alone contributes a massive share of total revenue
+- The December spike (~527M) is ~3x higher than Dec 2024
 
 
    - Revenue spike in April and Q4 each year due to campaigns like Songkran, 9.9, 10.10, 11.11, 12.12
