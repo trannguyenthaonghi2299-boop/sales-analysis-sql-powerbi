@@ -25,7 +25,7 @@ The growth is exponential, especially from mid-2024 onwards.
 **4. Key Takeaways**
 - 2025 is Breakout & Scale Year. Revenue growth accelerated sharply, especially in H2, with December hitting the highest level by far. The business has moved into high-growth phase
 - Strong Seasonality is due to campaigns.Consistent spikes in: April (Songkran) and Q4 mega campaigns (9.9 → 12.12). A large portion of revenue depends on promotional events
-- Improving Baseline Revenue while non-campaign months are rising steadily year over year. This indicates stronger brand, retention, and recurring demand
+- Improving Baseline Revenue while non-campaign months are rising steadily YoY. This indicates stronger brand, retention, and recurring demand
 
 **5. Recommendations**
 - Reduce Q4 Campaign Dependency by adding mid-year, off-cycle campaigns for example 3.3, 5.5 and building always-on promotions. This helps stabilize revenue across the year
