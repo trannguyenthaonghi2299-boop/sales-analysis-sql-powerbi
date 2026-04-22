@@ -1,1 +1,2 @@
-# ecommerce-sales-analysis-sql-powerbi
+# Ecommerce-sales-analysis-sql-powerbi
+## Sales Trend Over Time
