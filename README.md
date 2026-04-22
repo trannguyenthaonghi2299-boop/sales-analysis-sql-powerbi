@@ -32,7 +32,7 @@ The growth is exponential, especially from mid-2024 onwards.
 - Strengthen Customer Retention by converting campaign buyers into repeat customers by using CRM, loyalty programs, remarketing. This helps grow baseline revenue, not just spikes in campaigns
   
      
-## 📊 Key Analysis
+## Insights Deep-Dive
 
 ### 1. Sales Performance
 - ...
