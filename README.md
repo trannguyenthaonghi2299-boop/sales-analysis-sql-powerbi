@@ -28,7 +28,7 @@ The growth is exponential, especially from mid-2024 onwards.
 - Improving Baseline Revenue while non-campaign months are rising steadily YoY. This indicates stronger brand, retention, and recurring demand
 
 **5. Recommendations**
-- Reduce Q4 Campaign Dependency by adding mid-year, off-cycle campaigns for example 3.3, 5.5 and building always-on promotions. This helps stabilize revenue across the year
+- Reduce Q4 Campaign Dependency by adding mid-year, off-cycle campaigns (e.g. 3.3, 5.5) and building always-on promotions. This helps stabilize revenue across the year
 - Strengthen Customer Retention by converting campaign buyers into repeat customers by using CRM, loyalty programs, remarketing. This helps grow baseline revenue, not just spikes in campaigns
   
      
