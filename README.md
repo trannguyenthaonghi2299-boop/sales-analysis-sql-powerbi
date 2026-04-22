@@ -15,10 +15,13 @@ The growth is exponential, especially from mid-2024 onwards.
 - Monthly revenue in 2025 often exceeds peak months of prior years
 - Q4 2025 alone contributes a massive share of total revenue
 - The December spike (~527M) is ~3x higher than Dec 2024
+  
+**3. Seasonal Pattern: Campaign-Driven Spikes**
 
-
-   - Revenue spike in April and Q4 each year due to campaigns like Songkran, 9.9, 10.10, 11.11, 12.12
-   - 
+- Revenue is heavily campaign-dependent and Q4 contributes disproportionately to annual revenue (especially in 2024–2025)
+- Key spike periods are in April (Songkran) and Q3-Q4 campaigns 9.9, 10.10, 11.11, 12.12
+- 12.12 is always the highest peak
+     
 ## 📊 Key Analysis
 
 ### 1. Sales Performance
