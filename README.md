@@ -40,9 +40,17 @@ The growth is exponential, especially from mid-2024 onwards.
 
 ### 2. Category Performance
 ![Chart](images/rev_qty_cate.png)
+
+**Category Positioning**
+Among 5 categories: 
+- "Home" is dominant category, which contributes largest part of total revenue and sold quantity (more than 50%). This category is main growth, revenue driver
+- "Electronics" is with higher revenue, but lower volume. This is premium category with scaling potential in volume
+- "Groceries" is with good traffic but low Value
+- "Fashion" and "Beauty" are weak categories with low revenue and volume, despite very high average discount percentage applied (this data will be shown below).
+
+**Customer Behavior by Category**
 ![Chart](images/aov_ipo.png)
-- Home is dominant category, which contributes largest part of total revenue and sold quantity (more than 50%)
-- ...
+
 
 ## 🔍 Key Insights
 
