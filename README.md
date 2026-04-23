@@ -23,16 +23,14 @@ The growth is exponential, especially from mid-2024 onwards.
 - Key spike periods are in April (Songkran) and Q3-Q4 campaigns 9.9, 10.10, 11.11, 12.12
 - 12.12 is always the highest peak
 
-**4. Key Takeaways**
-- 2025 is Breakout & Scale Year. Revenue growth accelerated sharply, especially in H2, with December hitting the highest level by far. The business has moved into high-growth phase
-- Strong Seasonality is due to campaigns.Consistent spikes in: April (Songkran) and Q4 mega campaigns (9.9 → 12.12). A large portion of revenue depends on promotional events
-- Improving Baseline Revenue while non-campaign months are rising steadily YoY. This indicates stronger brand, retention, and recurring demand
+**4.Baseline Revenue Increased Significantly YoY**
+- Baseline (non-campaign) revenue has scaled substantially, growing from roughly 2M–100M in 2022 to 170M–900M in 2025. This suggests that the platform’s growth is not purely campaign-driven, but increasingly supported by strong and expanding organic demand.
 
-**5. Recommendations**
-- Reduce Q4 Campaign Dependency by adding mid-year, off-cycle campaigns (e.g. 3.3, 5.5) and building always-on promotions. This helps stabilize revenue across the year
-- Strengthen Customer Retention by converting campaign buyers into repeat customers by using CRM, loyalty programs, remarketing. This helps grow baseline revenue, not just spikes in campaigns
-  
-     
+**5. Key Takeaways**
+- 2025 is Breakout & Scale Year. Revenue growth accelerated sharply, especially in H2, with December hitting the highest level by far. The business has moved into high-growth phase
+- Strong Seasonality is due to campaigns. Consistent spikes in: April (Songkran) and Q4 mega campaigns (9.9 → 12.12). A large portion of revenue depends on promotional events
+- Improving Baseline Revenue while non-campaign months are rising significantly YoY. This indicates stronger brand, retention, and recurring demand
+
 ## Insights Deep-Dive
 
 ### 1. Sales Performance
