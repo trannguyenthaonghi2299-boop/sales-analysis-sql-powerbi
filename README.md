@@ -56,22 +56,22 @@ Among 5 categories:
   + Orders/user: 4.7 (highest)
   + AOV: mid (~19,000 THB)
   + Items/order: ~1.4 (no basket expansion)
-  + 
---> Strong repeat behavior → customers trust & come back, but they buy only 1–2 items each time
+    
+→ Strong repeat behavior, customers trust & come back, but they buy only 1–2 items each time
 
 - "Electronics" category:
   + AOV: highest (~28,000 THB)
   + Orders/user: 2.0 (low)
   + Items/order: ~1.4
 
---> Customers buy expensive items but rarely and no add-on behavior (should be higher than 1.4)
+→ Customers buy expensive items but rarely and no add-on behavior (should be higher than 1.4)
 
 - "Groceries" category
   + Orders/user: 2.4
   + AOV: low (~9,000 THB)
   + Items/order: ~1.4 (should be much higher in groceries)
 
---> Customers come back sometimes, but buy very few items per trip
+→ Customers come back sometimes, but buy very few items per trip
 
     
 ## 🔍 Key Insights
