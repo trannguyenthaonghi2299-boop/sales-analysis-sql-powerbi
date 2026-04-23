@@ -44,7 +44,7 @@ The growth is exponential, especially from mid-2024 onwards.
 **Category Positioning**
 
 Among 5 categories: 
-- "Home" is dominant category, which contributes largest part of total revenue and sold quantity (more than 50%). This category is main growth, revenue driver
+- "Home" is dominant category, which contributes largest part of total revenue and sold quantity (20% category contributes more than 50% value). This category is main growth, revenue driver
 - "Electronics" is with higher revenue, but lower volume. This is premium category with scaling potential in volume
 - "Groceries" is with good traffic but low Value
 - "Fashion" and "Beauty" are weak categories with low revenue and volume, despite very high average discount percentage applied (this data will be shown below).
@@ -72,6 +72,8 @@ Among 5 categories:
   + Items/order: ~1.4 (should be much higher in groceries)
 
 → Customers come back sometimes, but buy very few items per trip
+
+Key Issue: Across all 5 categories, basket size (items/order) remains really small at 1.4. This means customer only put 1-2 items in their order, regardless what items they bought 
 
     
 ## 🔍 Key Insights
