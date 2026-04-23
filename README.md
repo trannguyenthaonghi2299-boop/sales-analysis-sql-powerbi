@@ -40,6 +40,7 @@ The growth is exponential, especially from mid-2024 onwards.
 
 ### 2. Category Performance
 ![Chart](images/rev_qty_cate.png)
+![Chart](images/aov_ipo.png)
 - Home is dominant category, which contributes largest part of total revenue and sold quantity (more than 50%)
 - ...
 
