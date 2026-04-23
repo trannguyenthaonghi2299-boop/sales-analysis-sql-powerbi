@@ -49,7 +49,7 @@ Among 5 categories:
 - "Fashion" and "Beauty" are weak categories with low revenue and volume, despite very high average discount percentage applied (this data will be shown below).
 
 **Customer Behavior by Category**
-![Chart](images/aov_ipo.png)
+![Chart](images/aov_obu.png)
 
 
 ## 🔍 Key Insights
