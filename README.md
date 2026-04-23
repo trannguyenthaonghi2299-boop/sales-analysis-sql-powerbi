@@ -42,6 +42,7 @@ The growth is exponential, especially from mid-2024 onwards.
 ![Chart](images/rev_qty_cate.png)
 
 **Category Positioning**
+
 Among 5 categories: 
 - "Home" is dominant category, which contributes largest part of total revenue and sold quantity (more than 50%). This category is main growth, revenue driver
 - "Electronics" is with higher revenue, but lower volume. This is premium category with scaling potential in volume
@@ -51,7 +52,12 @@ Among 5 categories:
 **Customer Behavior by Category**
 ![Chart](images/aov_obu.png)
 
-
+- "Home" category
+  + Orders/user: 4.7 (highest)
+  + AOV: mid (~19000 THB)
+  + Items/order: ~1.4 (no basket expansion)
+--> Strong repeat behavior → customers trust & come back, bUT they buy only 1–2 items each time
+    
 ## 🔍 Key Insights
 
 - Insight 1
