@@ -1,7 +1,6 @@
 # Ecommerce-sales-analysis-sql-powerbi
 ## Sales Revenue Analysis (2022-2025)
-![Chart](images/sales_trend.png)
-Chart 1: Sales Revenue (2022-2025)
+![Chart](images/rev_campaign.png)
 
 **1. Overall Trend: Strong Upward Growth**
 
