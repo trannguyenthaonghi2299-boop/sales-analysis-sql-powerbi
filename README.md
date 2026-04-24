@@ -17,26 +17,23 @@ The growth is exponential, especially from mid-2024 onwards.
 - Monthly revenue in 2025 often exceeds peak months of prior years
 - Q4 2025 alone contributes a massive share of total revenue
 - The December spike (~527M THB) is ~3x higher than Dec 2024
-  
-**3. Seasonal Pattern: Campaign-Driven Spikes**
-
-- Revenue is heavily campaign-dependent and Q4 contributes disproportionately to annual revenue (especially in 2024–2025)
-- Key spike periods are in April (Songkran) and Q3-Q4 campaigns 9.9, 10.10, 11.11, 12.12
-- 12.12 is always the highest peak
-
-**4.Baseline Revenue Increased Significantly YoY**
-- Baseline (non-campaign) revenue has scaled substantially, growing from roughly 2M–100M in 2022 to 170M–900M in 2025. This suggests that the platform’s growth is not purely campaign-driven, but increasingly supported by strong and expanding organic demand.
-
-**5. Key Takeaways**
-- 2025 is Breakout & Scale Year. Revenue growth accelerated sharply, especially in H2, with December hitting the highest level by far. The business has moved into high-growth phase
-- Strong Seasonality is due to campaigns. Consistent spikes in: April (Songkran) and Q4 mega campaigns (9.9 → 12.12). A large portion of revenue depends on promotional events
-- Improving Baseline Revenue while non-campaign months are rising significantly YoY. This indicates stronger brand, retention, and recurring demand
 
 ## Insights Deep-Dive
 
 ### 1. Sales Performance
-- ...
-- ...
+
+**Seasonal Pattern: Campaign-Driven Spikes**
+- Revenue is heavily campaign-dependent and Q4 contributes disproportionately to annual revenue (especially in 2024–2025)
+- Key spike periods are in April (Songkran) and Q3-Q4 campaigns 9.9, 10.10, 11.11, 12.12
+- 12.12 is always the highest peak
+
+**Baseline Revenue Increased Significantly YoY**
+- Baseline (non-campaign) revenue has scaled substantially, growing from roughly 2M–100M in 2022 to 170M–900M in 2025. This suggests that the platform’s growth is not purely campaign-driven, but increasingly supported by strong and expanding organic demand.
+
+**Key Takeaways of Sales Performance**
+- 2025 is Breakout & Scale Year. Revenue growth accelerated sharply, especially in H2, with December hitting the highest level by far. The business has moved into high-growth phase
+- Strong Seasonality is due to campaigns. Consistent spikes in: April (Songkran) and Q4 mega campaigns (9.9 → 12.12). A large portion of revenue depends on promotional events
+- Improving Baseline Revenue while non-campaign months are rising significantly YoY. This indicates stronger brand, retention, and recurring demand
 
 ### 2. Category Performance
 ![Chart](images/rev_qty_cate.png)
@@ -49,7 +46,7 @@ Among 5 categories:
 - "Groceries" is with good traffic but low Value
 - "Fashion" and "Beauty" are weak categories with low revenue and volume, despite very high average discount percentage applied (this data will be shown below).
 
-**Customer Behavior by Category**
+**Customer Order Behavior by Category**
 ![Chart](images/aov_obu.png)
 
 - "Home" category
@@ -74,6 +71,10 @@ Among 5 categories:
 → Customers come back sometimes, but buy very few items per trip
 
 Key Issue: Across all 5 categories, basket size (items/order) remains really small at 1.4. This means customer only put 1-2 items in their order, regardless what items they bought 
+### 3. Promotion-Driven:
+
+
+### 4. Breakdown "Home" Category into Products:
 
     
 ## 🔍 Key Insights
