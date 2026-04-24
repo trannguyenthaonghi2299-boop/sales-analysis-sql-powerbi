@@ -17,11 +17,9 @@ This analysis includes
 - Assess promotion dependency:Which categories rely on discounts vs organic demand
 - Uncover growth opportunities: Increase AOV, basket size, and cross-category penetration
 
-
-Currency: THB
 ## Sales Revenue Analysis (2022-2025)
 ![Chart](images/rev_campaign.png)
-
+Currency: THB
 **1. Overall Trend: Strong Upward Growth**
 
 Revenue shows a clear YoY acceleration
