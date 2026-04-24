@@ -1,0 +1,106 @@
+Cleaning data
+CREATE OR REPLACE VIEW shopeeth.clean_order_item AS
+SELECT
+   order_item_id,
+   order_id,
+   product_id,
+
+
+   -- fix quantity & price
+   CASE WHEN quantity IS NULL OR quantity <= 0 THEN 1 ELSE quantity END AS quantity,
+   CASE WHEN unit_price IS NULL OR unit_price < 0 THEN 0 ELSE unit_price END AS unit_price,
+
+
+   -- clean discount
+   CASE
+       WHEN discount_percent IS NULL OR discount_percent < 0 THEN 0
+       WHEN discount_percent > 100 THEN 100
+       ELSE discount_percent
+   END AS discount_percent,
+
+
+   -- recompute derived fields
+   (CASE WHEN unit_price < 0 THEN 0 ELSE unit_price END)
+   * (1 -
+       (CASE
+           WHEN discount_percent < 0 OR discount_percent IS NULL THEN 0
+           WHEN discount_percent > 100 THEN 100
+           ELSE discount_percent
+       END)/100
+     ) AS unit_price_after_discount,
+
+
+   (CASE WHEN quantity <= 0 OR quantity IS NULL THEN 1 ELSE quantity END)
+   *
+   (CASE WHEN unit_price < 0 THEN 0 ELSE unit_price END)
+   *
+   (1 -
+       (CASE
+           WHEN discount_percent < 0 OR discount_percent IS NULL THEN 0
+           WHEN discount_percent > 100 THEN 100
+           ELSE discount_percent
+       END)/100
+     ) AS line_total,
+
+
+   -- clean status
+   LOWER(TRIM(item_status)) AS item_status,
+
+
+   -- keep rest
+   shipping_fee_item,
+   estimated_delivery_start,
+   estimated_delivery_end,
+   is_campaign,
+   product_campaign_id
+
+
+FROM shopeeth.order_item
+WHERE order_id IS NOT NULL
+ AND product_id IS NOT NULL;
+
+
+Rev & Qty by Category:
+SELECT category, SUM(total_amount), SUM(quantity)
+FROM shopeeth.order o
+JOIN shopeeth.order_item oi
+ON o.order_id = oi.order_id
+JOIN shopeeth.product p
+ON p.product_id = oi.product_id
+GROUP BY 1
+
+
+
+
+Rev & Qty by product_name in ‘Home’
+SELECT product_name, SUM(total_amount), SUM(quantity)
+FROM shopeeth.order o
+JOIN shopeeth.order_item oi
+ON o.order_id = oi.order_id
+JOIN shopeeth.product p
+ON p.product_id = oi.product_id
+WHERE category = 'Home'
+GROUP BY 1
+
+
+
+
+AOV, item_per_order, order_by_user by Cate
+SELECT category, SUM(o.total_amount) / COUNT(o.order_id) AS AOV, SUM(quantity) / COUNT(o.order_id) AS item_per_order, COUNT(o.order_id)/ COUNT (DISTINCT o.customer_id) AS order_by_user
+FROM shopeeth.order o
+JOIN shopeeth.order_item oi
+ON o.order_id = oi.order_id
+JOIN shopeeth.product p
+ON p.product_id = oi.product_id
+GROUP BY 1
+
+
+avg_discount_pct by Cate
+SELECT category, AVG(discount_percent) AS avg_discount_pct
+FROM shopeeth.order o
+JOIN shopeeth.order_item oi
+ON o.order_id = oi.order_id
+JOIN shopeeth.product p
+ON p.product_id = oi.product_id
+WHERE discount_percent >0
+GROUP BY 1
