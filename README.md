@@ -104,12 +104,34 @@ Key Issue: Across all 5 categories, basket size (items/order) remains really sma
 - The discounts are encouraging “buy 1 cheap item” behavior, instead of “add more to save more” behavior. So, replace flat discount scheme with “Spend 10,000 THB → save 10%” or “Spend 20,000THB → save 15%”, which encourage customer spend more, add more
 - Instead of discounting single items, we offer sets, bundled items, like Fashion → outfits, Beauty → skincare sets, Groceries → weekly packs
     
-## 🔍 Key Insights
+## Key Insights
 
-- Insight 1
-- Insight 2
+**Insight 1. Strong Growth, but Campaign-Driven**
+Revenue grows sharply (2022 → 2025), with extreme spikes in Q4 (up to ~527M THB).
+→ Growth is still heavily dependent on campaigns drive, partly organic demand.
 
-## 🚀 Recommendations
+**Insight 2. No Basket Expansion**
+Items per order stay flat (~1.4) across all categories.
+→ Growth comes from more orders and higher prices, not larger baskets.
 
-- Action 1
-- Action 2
+**Insight 3. Category Imbalance**
+Home dominates revenue and engagement
+Electronics = high value, low frequency
+Fashion & Beauty = weak despite high discounts
+Groceries = frequent but low value
+→ Revenue is overly concentrated in one category.
+
+**Insight 4. Promotions Reduce Efficiency**
+Discounts boost conversion but consistently lower AOV (-33% to -36% in some categories).
+→ Promotions drive volume, but hurt order value and ROI.
+
+## Recommendations
+
+- Action 1: Replace flat discounts with tiered spend incentives (e.g., spend 10,000 THB → save 10%)
+- Action 2: Push bundles/sets to increase items per order (key fix: 1.4 flat AOV issue)
+- Action 3: Increase Basket Size by adding cross-sell, “frequently bought together” functions in UX, and product-page bundling to drive multi-item purchases 
+- Action 4:  Fix Category Imbalance (Revenue is over-reliant on Home) by improve ads, search ranking, and homepage visibility for weak categories (Beauty, Fashion)
+- Action 5: Improve Repeat Usage by low-frequent order categories -Electronics, Groceries by add lifecycle triggers (reorder, accessories, upgrades) to increase repeat value
+- Action 6: Users don’t naturally expand across products. So we need to improve recommendation engine, search relevance.
+
+
