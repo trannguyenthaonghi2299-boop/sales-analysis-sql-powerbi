@@ -1,0 +1,21 @@
+campaign_id,campaign_name,start_date,end_date,campaign_type
+C001,Songkran Sale,2022-04-13,2022-04-15,flash-sale
+C002,9.9 Sale,2022-09-09,2022-09-09,flash-sale
+C003,10.10 Sale,2022-10-10,2022-10-10,flash-sale
+C004,11.11 Sale,2022-11-11,2022-11-11,discount
+C005,12.12 Sale,2022-12-12,2022-12-12,flash-sale
+C006,Songkran Sale,2023-04-13,2023-04-15,flash-sale
+C007,9.9 Sale,2023-09-09,2023-09-09,voucher
+C008,10.10 Sale,2023-10-10,2023-10-10,flash-sale
+C009,11.11 Sale,2023-11-11,2023-11-11,discount
+C010,12.12 Sale,2023-12-12,2023-12-12,voucher
+C011,Songkran Sale,2024-04-13,2024-04-15,bundle
+C012,9.9 Sale,2024-09-09,2024-09-09,discount
+C013,10.10 Sale,2024-10-10,2024-10-10,discount
+C014,11.11 Sale,2024-11-11,2024-11-11,bundle
+C015,12.12 Sale,2024-12-12,2024-12-12,discount
+C016,Songkran Sale,2025-04-13,2025-04-15,bundle
+C017,9.9 Sale,2025-09-09,2025-09-09,bundle
+C018,10.10 Sale,2025-10-10,2025-10-10,discount
+C019,11.11 Sale,2025-11-11,2025-11-11,flash-sale
+C020,12.12 Sale,2025-12-12,2025-12-12,flash-sale
