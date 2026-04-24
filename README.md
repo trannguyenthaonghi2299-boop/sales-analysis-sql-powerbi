@@ -1,5 +1,6 @@
 # Ecommerce-sales-analysis-sql-powerbi
 ## Client Background
+![Chart](images/shopeeth_logo.png)
 Shopee is the leading e-commerce platform in Thailand, operating in a highly competitive and promotion-driven market. The platform offers a wide assortment across key categories including Home & Living, Electronics, Groceries, Fashion, and Beauty.
 
 The Thai e-commerce landscape is characterized by:
