@@ -71,6 +71,7 @@ Among 5 categories:
 → Customers come back sometimes, but buy very few items per trip
 
 Key Issue: Across all 5 categories, basket size (items/order) remains really small at 1.4. This means customer only put 1-2 items in their order, regardless what items they bought 
+
 ### 3. Promotion-Driven:
 ![Chart](images/discount_order.png)
 ![Chart](images/pct_discount.png)
@@ -96,9 +97,12 @@ Key Issue: Across all 5 categories, basket size (items/order) remains really sma
 ![Chart](images/aov_campaign_non.png)
 ![Chart](images/aov_change.png)
 
+- Campaigns / Discount is reducing basket value across the board. Every category shows negative AOV impact, esecially in Fashion (-36%) and Groceries (-33%)
+- Customers are likely buying cheaper substitutes, splitting orders instead of bundling (not in this case because item_per_order is still 1.4), focusing on promo-only items. Or campaign attracts lower-intent users so AOV drops even if conversion rises
 
-### 4. Breakdown "Home" Category into Products:
-
+**Recommendations**
+- The discounts are encouraging “buy 1 cheap item” behavior, instead of “add more to save more” behavior. So, replace flat discount scheme with “Spend 10,000 THB → save 10%” or “Spend 20,000THB → save 15%”, which encourage customer spend more, add more
+- Instead of discounting single items, we offer sets, bundled items, like Fashion → outfits, Beauty → skincare sets, Groceries → weekly packs
     
 ## 🔍 Key Insights
 
