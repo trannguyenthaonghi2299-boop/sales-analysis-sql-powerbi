@@ -72,11 +72,29 @@ Among 5 categories:
 
 Key Issue: Across all 5 categories, basket size (items/order) remains really small at 1.4. This means customer only put 1-2 items in their order, regardless what items they bought 
 ### 3. Promotion-Driven:
-![Chart](images/aov_change.png)
-![Chart](images/aov_campaign.png)
 ![Chart](images/discount_order.png)
 ![Chart](images/pct_discount.png)
 
+**- Group 1: Efficient Discounts -  Home, Groceries**
+  + Home: balanced discounting and response
+  + Groceries: low discount depth, high usage
+ → Discounts are working as expected; customers respond proportionally.
+ → Strategy: Maintain current promo structure, optimize.
+
+**- Group 2: Need Discounts to Drive Behavior - Fashion**
+  + Highest avg discount (17.5%)
+  + High discounted order share (12%)
+→ Customers respond, but only when discounts are deep.
+→ Strategy: Promotions are a key conversion lever; focus on smarter targeting rather than increasing discount further.
+
+**- Group 3: Low Response Despite Discounts - Beauty, Electronics**
+  + Beauty: high discount (14.1%) but low response (7%)
+  + Electronics: moderate discount (10%) but low response (7%)
+→ Discounts are not effectively driving incremental orders.
+→ Strategy: Reassess promo effectiveness—could be wrong timing, targeting, or category inherently less promo-sensitive.
+
+![Chart](images/aov_change.png)
+![Chart](images/aov_campaign.png)
 
 ### 4. Breakdown "Home" Category into Products:
 
