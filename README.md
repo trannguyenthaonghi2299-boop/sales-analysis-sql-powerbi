@@ -72,6 +72,10 @@ Among 5 categories:
 
 Key Issue: Across all 5 categories, basket size (items/order) remains really small at 1.4. This means customer only put 1-2 items in their order, regardless what items they bought 
 ### 3. Promotion-Driven:
+![Chart](images/aov_change.png)
+![Chart](images/aov_campaign.png)
+![Chart](images/discount_order.png)
+![Chart](images/pct_discount.png)
 
 
 ### 4. Breakdown "Home" Category into Products:
