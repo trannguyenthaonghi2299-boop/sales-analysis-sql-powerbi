@@ -1,4 +1,22 @@
 # Ecommerce-sales-analysis-sql-powerbi
+## Client Background
+Shopee is the leading e-commerce platform in Thailand, operating in a highly competitive and promotion-driven market. The platform offers a wide assortment across key categories including Home & Living, Electronics, Groceries, Fashion, and Beauty.
+
+The Thai e-commerce landscape is characterized by:
+
+High price sensitivity among consumers
+Strong reliance on campaigns (e.g., 9.9, 11.11) and vouchers
+Increasing competition from platforms like Lazada and TikTok Shop
+Growing expectation for fast delivery and value-for-money deals
+
+As a result, Shopee Thailand must continuously balance:
+
+Driving traffic via promotions
+Maintaining profitability and basket size
+Optimizing category mix and customer lifetime value
+
+
+
 Currency: THB
 ## Sales Revenue Analysis (2022-2025)
 ![Chart](images/rev_campaign.png)
