@@ -93,8 +93,9 @@ Key Issue: Across all 5 categories, basket size (items/order) remains really sma
 → Discounts are not effectively driving incremental orders.
 → Strategy: Reassess promo effectiveness—could be wrong timing, targeting, or category inherently less promo-sensitive.
 
+![Chart](images/aov_campaign_non.png)
 ![Chart](images/aov_change.png)
-![Chart](images/aov_campaign.png)
+
 
 ### 4. Breakdown "Home" Category into Products:
 
