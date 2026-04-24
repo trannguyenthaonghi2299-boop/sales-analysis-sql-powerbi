@@ -36,8 +36,8 @@ The growth is exponential, especially from mid-2024 onwards.
 - The December spike (~527M THB) is ~3x higher than Dec 2024
   
 ## Dataset Structure & ERD (Entity Relationship Diagram)
-The dataset consists of 4 tables
-
+The dataset consists of 4 tables: order, order_item, product, campaigns with total row counts of 19,973 records
+![Chart](images/erd.png)
 
 ## Insights Deep-Dive
 
