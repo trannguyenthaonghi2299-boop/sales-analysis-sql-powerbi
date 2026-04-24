@@ -34,6 +34,10 @@ The growth is exponential, especially from mid-2024 onwards.
 - Monthly revenue in 2025 often exceeds peak months of prior years
 - Q4 2025 alone contributes a massive share of total revenue
 - The December spike (~527M THB) is ~3x higher than Dec 2024
+  
+## Dataset Structure & ERD (Entity Relationship Diagram)
+The dataset consists of 4 tables
+
 
 ## Insights Deep-Dive
 
